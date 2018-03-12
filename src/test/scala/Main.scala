@@ -1,4 +1,4 @@
-package greenlight
+package sparkstarter
 
 import org.scalatest.FlatSpec;
 
